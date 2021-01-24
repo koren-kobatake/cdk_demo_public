@@ -1,0 +1,11 @@
+aws-cdk.core
+aws-cdk.aws-s3
+aws-cdk.aws-ecr
+aws-cdk.aws-ec2
+aws-cdk.aws-ecs
+aws-cdk.aws-iam
+aws-cdk.aws-rds
+aws-cdk.aws-logs
+boto3
+numpy
+pandas
